@@ -1,0 +1,53 @@
+commit 17c4d53256a2be0b4ebd49364481686420874536
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 19:08:43 2025 -0500
+
+    Create FirstAssignment.png
+
+commit 6c6080c9a5f90a293291f3a0627305488245046e
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 19:05:46 2025 -0500
+
+    Updating me
+    
+    I updated the me.txt
+
+commit 1d609f39bd2eda48eaa7e9ec6236b918d6b7b219
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 19:04:11 2025 -0500
+
+    Making me
+    
+    Making the me.txt
+
+commit 7849a3a12b5962d70d1746f48e69fb9a4b5ca146
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 19:03:19 2025 -0500
+
+    Delete me.txt
+
+commit 7b0f9f1baba01edc2792aab90374f3d2e710492b
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 19:00:35 2025 -0500
+
+    Create me.txt
+
+commit be82aacf1c10ecfd1ecfeadcc5666c442df640df
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 18:50:21 2025 -0500
+
+    Delete ssadassad.txt
+
+commit 8a3bb6663f6c2a6a5b72111346139513e49db2a2
+Author: CheezUwU <jtw7147@rit.edu>
+Date:   Thu Jan 16 18:44:07 2025 -0500
+
+    first
+    
+    try
+
+commit d99fa6331fb1c6f6c9f648496bd45bd6bcd83cae
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Sun Jan 5 05:25:57 2025 +0000
+
+    Initial commit
