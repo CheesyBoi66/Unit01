@@ -2,4 +2,4 @@ Joseph Walorz
 
 The commit did not show as commits only show changed files
 
-
+Github recognized the push this time and added it to the main commits
